@@ -7,4 +7,9 @@ In addition, there will also have MIT OCW courses and MIT on edX.
 The main topics are :
 Calculus
 Linear Algebra
+Analysis
+Topology
+Geometry
 Probability
+
+The reason behind this is to help me improve my Statistics and Machine Learning comprehension
