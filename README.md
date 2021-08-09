@@ -14,4 +14,4 @@ Probability
 
 The reason behind this is to help me improve my Statistics and Machine Learning comprehension.
 
-EDIT : I also inserted Penn State courses to refresh my statistics foundations. I found them to be extremely good (particularly STAT501 Regression Methods), so I'll do some of them to deepen or just refresh some concepts.
+I also inserted Penn State courses to refresh my statistics foundations. I found them to be extremely good (particularly STAT501 Regression Methods), so I'll do some of them to deepen or just refresh some concepts.
