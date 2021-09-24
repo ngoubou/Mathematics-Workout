@@ -1,1 +1,7 @@
 
+The follow books will be used as companion books for my study.
+
+Calculus 8th edition, by James Stewart
+Linear Algebra 6th edition, by Gilbert Strang
+Aléatoire, by Sylvie Méléard
+Understanding Analysis, by Stephen Abbott
